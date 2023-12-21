@@ -1,0 +1,22 @@
+# section information
+section:
+  name: 
+  id: achievements
+  enable: true
+  weight: 9
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Teacher
+  # image: /images/sections/achievements/presenter.jpg
+  image: /images/sections/achievements/presenting_stars.jpg
+  # summary: Best presenter in the 2020 XYZ conference.
+- title: Astrophysicist
+  image: /images/sections/achievements/astronomer.jpg
+- title: Actor
+  image: /images/sections/achievements/actor.jpg
+- title: Father
+  image: /images/sections/achievements/father.jpg

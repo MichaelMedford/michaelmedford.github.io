@@ -1,0 +1,58 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Expert in constructing massive data processing pipelines in both cloud and high-performance computing environments."
+  url: "https://www.python.org/"
+
+- name: Go Development
+  logo: /images/sections/skills/go.png
+  summary: "Experience developing on production scheduling software while handling customer information with zero downtime."
+  url: "https://golang.org/"
+
+- name: Ruby on Rails
+  logo: /images/sections/skills/rails.png
+  summary: "Implemented new features into an existing monolith including integration with independent microservices via a transactional outbox pattern."
+  url: "https://rubyonrails.org/"
+
+- name: C
+  logo: /images/sections/skills/c.png
+  summary: "Built planet-hunting software on national laboratory high performance computing clusters optimized for speed and memory efficiency."
+  url: https://www.cprogramming.com/
+
+- name: PostgreSQL
+  logo: /images/sections/skills/sql.png
+  summary: "Expert in designing and implementing novel data modeling schemas using efficient scalable SQL and database access techniques."
+  url: https://www.postgresql.org/
+
+- name: Docker
+  logo: /images/sections/skills/docker.png
+  summary: "Extensive experience building software into docker containers and constructing docker compose files for production deployments."
+  url: "https://www.docker.com/"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Expert in git-based development, including git flow and trunk based development, using both Github and Gitlab."
+  url: "https://git-scm.com/"
+
+- name: Agile Project Management
+  logo: /images/sections/skills/agile.png
+  summary: "Experience planning and running agile sprint ceremonies as technical lead of several teams."
+  url: https://www.agilealliance.org/agile101/
+
+- name: Technical Writing
+  logo: /images/sections/skills/pencil.jpeg
+  summary: "Author on over thirty scientific papers including four first author papers in Astronomy & Astrophysics."
+  url: https://scholar.google.com/citations?user=jSkrHtgAAAAJ&hl=en&oi=ao
+

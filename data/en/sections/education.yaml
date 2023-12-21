@@ -1,0 +1,119 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Ph.D in Astronomy & Astrophysics
+  icon: fa-microscope
+  timeframe: 2015-2021
+  institution:
+    name: UC Berkeley
+    url: "https://astro.berkeley.edu/"
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.79
+    outOf: 4
+  publications: #(optional)
+  - title: "Thesis: Discovery of Rare Signals in Large Scale Time Domain Surveys: Dark Planets and Black Holes"
+  - title: 60 Microlensing Events from the Three Years of Zwicky Transient Facility Phase One
+    url: "https://iopscience.iop.org/article/10.3847/1538-4357/acba8f"
+  - title: Gravitational Microlensing Event Statistics for the Zwicky Transient Facility
+    url: "https://iopscience.iop.org/article/10.3847/1538-4357/ab9a4f"
+  - title: Removing Atmospheric Fringes from Zwicky Transient Facility i-band Images using Principal Component Analysis
+    url: "https://iopscience.iop.org/article/10.1088/1538-3873/abfe9d"
+  - title: Transformations from Pan-STARRS1 and UBV Filters into ZTF Filters
+    url: "https://iopscience.iop.org/article/10.3847/2515-5172/ab7f3c"
+  extracurricularActivities: #(optional)
+  - "Awarded $130,000 by winning the UC-National Lab In-Resident Graduate Fellowship at Lawrence Livermore National Lab"
+  - "Lead instructor of graduate student mentorship program for 3 years"
+  - "Lead instructor of required graduate student pedagogy training course for 3 years"
+- name: BS in Theatre & Physics
+  icon: fa-graduation-cap
+  timeframe: 2007-2011
+  institution:
+    name: Northwestern University
+    url: "https://communication.northwestern.edu/"
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.75
+    outOf: 4
+  # publications: #(optional)
+  # - title: 60 Microlensing Events from the Three Years of Zwicky Transient Facility Phase One
+  #   url: "https://iopscience.iop.org/article/10.3847/1538-4357/acba8f"
+  # - title: Gravitational Microlensing Event Statistics for the Zwicky Transient Facility
+  #   url: "https://iopscience.iop.org/article/10.3847/1538-4357/ab9a4f"
+  # - title: Removing Atmospheric Fringes from Zwicky Transient Facility i-band Images using Principal Component Analysis
+  #   url: "https://iopscience.iop.org/article/10.1088/1538-3873/abfe9d"
+  # - title: Transformations from Pan-STARRS1 and UBV Filters into ZTF Filters
+  #   url: "https://iopscience.iop.org/article/10.3847/2515-5172/ab7f3c"
+  extracurricularActivities: #(optional)
+  - Awarded NASA College Summer Research grant to develop data correction techniques for detecting high-mass star formation
+  - "[Northwestern Magazine: Seniors to Watch](https://www.northwestern.edu/magazine/summer2011/feature/profiles/michael-medford.html)"
+# - name: B.Sc. in Computer Science & Engineering
+#   icon: fa-graduation-cap
+#   timeframe: 2012-2016
+#   institution:
+#     name: University of XYZ
+#     url: "#"
+#   grade: #(optional)
+#     scale: CGPA
+#     achieved: 3.5
+#     outOf: 4
+#   takenCourses: #(optional)
+#     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+#     showGrades: true
+#     collapseAfter: 3
+#     courses:
+#     - name: Data Structures and Algorithm
+#       achieved: 3.75
+#       outOf: 4
+#     - name: Network Security
+#       achieved: 3.80
+#       outOf: 4
+#     - name: Operating System
+#       achieved: 3.5
+#       outOf: 4
+#     - name: Artificial Intelligent
+#       achieved: 3.75
+#       outOf: 4
+#   publications: #(optional)
+#   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#     url: "#"
+#   - title: Fusce eu augue ut odio porttitor pulvinar.
+#     url: "#"
+#   extracurricularActivities: #(optional)
+#   - In vitae facilisis est, eget porta sem.
+#   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+#   - Duis sed massa feugiat, ornare justo et, aliquam est.
+#   - Pellentesque ut fringilla magna.
+# - name: Higher Secondary School Certificate
+#   icon: fa-university
+#   timeframe: 2010-2012
+#   institution:
+#     name: MST College of Science
+#     url: "#"
+#   grade: #(optional)
+#     scale: GPA
+#     achieved: 5
+#     outOf: 5
+#   extracurricularActivities: #(optional)
+#   - In vitae facilisis est, eget porta sem.
+#   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+#   - Duis sed massa feugiat, ornare justo et, aliquam est.
+#   - Pellentesque ut fringilla magna.
+# - name: Secondary School Certificate
+#   icon: fa-school
+#   timeframe: 2005-2010
+#   institution:
+#     name: JK School of Science
+#   grade: #(optional)
+#     scale: GPA
+#     achieved: 4.5
+#     outOf: 5

@@ -1,0 +1,101 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Interim System Architect, Staff Software Engineer
+# your company information
+company:
+  name: Aumni, a JPMorgan Chase Company
+  url: "https://www.aumni.fund/"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: "I am an astrophysicist that loves building massive data processing pipelines that solve intractable problems. I have applied these skills to a diverse set of challenges ranging from scaling R&D products on cloud infrastructure to constructing calibration pipelines for the world's largest telescopes. I am at my best when working alongside other passionate collaborators toward a common goal."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "michaelmedford@gmail.com"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com//in/MichaelMedford"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/MichaelMedford"
+
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
+
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "#"
+
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
+
+# - name: Mastadon
+#   icon: "fab fa-mastodon"
+#   url: "#"
+#   rel: "me noopener"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My Resume"
+  url: "files/MichaelMedfordResume.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: "Northwestern University: Bachelor of Science in Physics & Theatre"
+  url: "https://www.northwestern.edu/magazine/summer2011/feature/profiles/michael-medford.html"
+  badge: "files/Northwestern_University_seal.svg"
+
+- type: certification
+  name: "UC Berkeley: Ph.D in Astronomy & Astrophysics"
+  url: "https://scholar.google.com/citations?user=jSkrHtgAAAAJ&hl=en"
+  badge: "files/2048px-Seal_of_University_of_California,_Berkeley.png"
+
+- type: certification
+  name: "Aumni: System Architect"
+  url: "https://www.jpmorgan.com/about-us/corporate-news/2023/jpmorgan-acquire-alumni-leading-provider-investment-analytics-software"
+  # badge: "files/aumni_logo_jpm_lower.png"
+  badge: "files/aumni_logo_white.png"
+
+- type: soft-skill-indicator
+  name: "BS: Physics & Theatre"
+  percentage: 95
+  color: "#4E2A84"
+
+- type: soft-skill-indicator
+  name: "Ph.D: Astronomy & Astrophysics"
+  percentage: 95
+  color: "#FDB515"
+
+- type: soft-skill-indicator
+  name: "Interim System Architect"
+  percentage: 95
+  color: "#3886eb"
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

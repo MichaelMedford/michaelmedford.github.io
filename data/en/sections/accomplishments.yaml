@@ -1,0 +1,29 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 8
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+
+- name: Actor
+  timeline: "September 2007 - June 2015"
+  # organization:
+  #   name: Chicago Theatre Scene
+  #   url: "https://www.northwestern.edu/magazine/summer2011/feature/profiles/michael-medford.html"
+  courseOverview: Over my four years living in Chicago I performed in nine shows, acted in five films, assistant directed three productions, and taken over a dozen classes in acting for the stage, film, improv and Meisner technique.  In 2012, along with several other theatre artists, I founded The Poor Theatre as a way to build such an ensemble. We strove to explore those parts of the human experience often overlooked. We worked to give voice to stories that often go unheard. My contributions to the company were both as a member of the acting ensemble and the Managing Director, before I left the company in 2015.
+  # certificateURL: "https://example.com"
+
+- name: Physics Teacher
+  timeline: "July 2011 - June 2015"
+  # organization:
+    # name: Renainssance Tutoring
+    # url: https://www.coursera.org
+  courseOverview: "I tutored high school, undergraduate, and post-baccalaureate students in physics and astronomy in my years between Northwestern and UC Berkeley. My teaching style is greatly informed by my time spent as an actor, where I learned that communication is a skill one develops and hones with practice. My time has also been spent working to develop physics and robotics programs for middle and high school students in Evanston, IL (Northwestern University Center for Talent Development) and Oak Park, IL (Oak Park Education Foundation). Using all facets of STEM curriculum, I worked with students to analytically, strategically and cooperatively design, engineer, build, program, test and operate competition robots."
+  # certificateURL: "https://example.com"

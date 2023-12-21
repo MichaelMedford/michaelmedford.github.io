@@ -1,0 +1,87 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Aumni, a JPMorgan Chase Company
+    url: "https://www.aumni.fund/"
+    location: Salt Lake City, UT
+    # company overview
+    overview: Aumni gives you instant access to the most reliable financial and legal insights across your portfolio, sourced directly from your executed legal agreements.
+  positions:
+  - designation: Interim System Architect, Staff Software Engineer
+    start: July 2023
+    responsibilities:
+    - Redesigned our backend architecture with management, product and engineering to enable flow in stream-aligned teams
+    - Developed a migration plan to maintain 100% uptime while refactoring our Ruby on Rails monolith into a set of independent services within the JPMorgan ecosystem
+    - Constructed contract testing framework to ensure independent deployability in collaboration with our Testing Enablement Team
+  - designation: Senior Software Engineer and Technical Lead
+    start: October 2022
+    end: June 2023
+    responsibilities:
+    - Designed, documented and deployed to production an independent microservice for indexing millions of documents into OpenSearch in only 6 weeks
+    - Invented an SQL unit test framework supported by a file parsing library on top of our core business logic
+    - Overhauled the infrastructure and tooling for developer data synchronization to reduce sync time from 15 minutes to 20 seconds
+
+- company:
+    name: Planet Labs
+    url: "https://www.planet.com/"
+    location: San Francisco, CA
+    overview: Planet provides daily satellite data that helps businesses, governments, researchers, and journalists understand the physical world and take action.
+  positions:
+  - designation: Technical Lead of Planet Fusion Monitoring Pod
+    start: March 2022
+    end: October 2022
+    responsibilities:
+    - Architected 10x increase in our daily processing to 595 TB while cutting per unit costs 80% in four months
+    - 98% reduction in database query latency & CPU utilization via SQL schema & query optimization
+    - Cut GCS & AWS data delivery processing overhead by 30x using batched GCP pubsub messages
+    - Moved team into a bi-weekly sprint structure with ticket triage, sprint retrospectives and sprint planning
+  - designation: Geospatial Software Engineer
+    start: June 2021
+    end: October 2022
+    responsibilities:
+    - Implemented automated data backups & disaster recovery via terraform to comply with ISO certification • Set up on-call notifications by integrating Sentry, PagerDuty and Slack into our Python & Go stack
+    - Created a comprehensive cost estimate method to measure profit margin goals for our product teams
+    - Coordinated several refactors across our Compute, Pipeline and Infrastructure teams to facilitate growth
+  - designation: Part-time Geospatial Software Engineer
+    start: November 2020
+    end: May 2021
+    responsibilities:
+    - Enabled end-to-end development by connecting our React front-end, Go orchestrator & Python scripts
+    - Conducted our largest scale test to date, giving the green light to onboard new customer contracts
+    - Transitioned change detection algorithm to parallelized cloud context for a 100x speedup in E2E runtime
+
+- company:
+    name: Renaissance tutoring
+    # url: "https://www.example.com"
+    location: Chicago, IL
+    overview: A tutoring agency that focused on communication, empathy, and creative thinking to help students gain fundamental understanding and successful problem solving strategies
+  positions:
+  - designation: Founder & Tutor
+    start: September 2011
+    end: June 2015
+    responsibilities:
+    - Instructed students pursuing high school, undergraduate, and post-baccalaureate degrees in physics, chemistry, and mathematics (including AP, SAT, SAT II, ACT, and MCAT exams)
+
+- company:
+    name: The Poor Theatre
+    # url: "https://www.example.com"
+    location: Chicago, IL
+    overview: An ensemble based theatre company that presents high-quality and engaging productions from America's up and coming new playwrights
+  positions:
+  - designation: Co-founder, Managing Director & Actor
+    start: September 2012
+    end: June 2015
+    responsibilities:
+    - Founded a company that worked with over 100 artists and had over 1000 audience attendees
+    - Acted in over fifty stage productions and films throughout the Chicago-land area
+    - Completed training at The Artistic Home & Improv Olympic (Chicago), and the British American Drama Academy (Oxford)

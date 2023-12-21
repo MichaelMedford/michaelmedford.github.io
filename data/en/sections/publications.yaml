@@ -1,0 +1,102 @@
+# section information
+section:
+  name: Publications
+  id: publications
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+# buttons:
+# - name: All
+#   filter: "all"
+# - name: "Machine Learning"
+#   filter: "machinelearning"
+# - name: "Image Processing"
+#   filter: "image-processing"
+# - name: Security
+#   filter: "security"
+
+# your publications
+publications:
+- title: 60 Microlensing Events from the Three Years of Zwicky Transient Facility Phase One
+  publishedIn:
+    name: The Astrophysical Journal, Volume 947, Number 1
+    date: 14 April 2023
+    url: https://iopscience.iop.org/article/10.3847/1538-4357/acba8f
+  # authors:
+  # - name: Dr. Madman
+  #   url: https://example.com
+  # - name: Dr. Lessmad
+  #   url: https://example.com
+  # - name: Dr. Moremad
+  #   url: https://example.com
+  # - name: Dr. Goodman
+  #   url: https://example.com
+  paper:
+    summary: We conduct the first multiyear search for microlensing events on the Zwicky Transient Facility (ZTF), an all-sky optical synoptic survey that observes the entire visible northern sky every few nights. We discover 60 high-quality microlensing events in the 3 yr of ZTF-I using the bulk lightcurves in the ZTF Public Data Release 5. 19 of our events are found outside of the Galactic plane, nearly doubling the number of previously discovered events in the stellar halo from surveys pointed toward the Magellanic Clouds and the Andromeda galaxy. 
+    url: https://iopscience.iop.org/article/10.3847/1538-4357/acba8f
+  # categories: ["machinelearning","image-processing"]
+  # tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
+
+- title: Removing Atmospheric Fringes from Zwicky Transient Facility i-band Images using Principal Component Analysis
+  publishedIn:
+    name: Publications of the Astronomical Society of the Pacific, Volume 133, Number 1024
+    date: 24 June 2021
+    url: https://iopscience.iop.org/article/10.1088/1538-3873/abfe9d
+  # authors:
+  # - name: Dr. Madman
+  #   url: https://example.com
+  # - name: Dr. Lessmad
+  #   url: https://example.com
+  # - name: Dr. Moremad
+  #   url: https://example.com
+  # - name: Dr. Goodman
+  #   url: https://example.com
+  paper:
+    summary: Here we present a method for constructing models of these atmospheric fringes using Principal Component Analysis that can be used to identify and remove these artifacts from contaminated images. In addition, we present the Uniform Background Indicator as a quantitative measurement of the reduced correlated background noise and photometric error present after removing fringes. We conclude by evaluating the effect of our method on measuring faint sources through the injection and recovery of artificial stars in both single-image epochs and co-additions. Our method for constructing atmospheric fringe models and applying those models to produce cleaned images is available for public download in the open source Python package fringez.
+    url: https://iopscience.iop.org/article/10.1088/1538-3873/abfe9d
+  # categories: ["security"]
+  # tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Gravitational Microlensing Event Statistics for the Zwicky Transient Facility
+  publishedIn:
+    name: The Astrophysical Journal, Volume 897, Number 2
+    date: 13 July 2020
+    url: https://iopscience.iop.org/article/10.3847/1538-4357/ab9a4f
+  # authors:
+  # - name: Dr. Madman
+  #   url: https://example.com
+  # - name: Dr. Lessmad
+  #   url: https://example.com
+  # - name: Dr. Moremad
+  #   url: https://example.com
+  # - name: Dr. Goodman
+  #   url: https://example.com
+  paper:
+    summary: We predict that the Zwicky Transient Facility (ZTF), an all-sky optical synoptic survey that observes the entire visible northern sky every few nights, will observe ∼1100 microlensing events in 3 yr of observing within 10° latitude of the Galactic plane, with ∼500 events in the outer Galaxy (ℓ ≥ 10°). Using the microlensing modeling software PopSyCLE, we compare the microlensing populations in the Galactic bulge and the outer Galaxy. We also present an analysis of the microlensing event ZTF18abhxjmj to demonstrate how to leverage these population statistics in event modeling.
+    url: https://iopscience.iop.org/article/10.3847/1538-4357/ab9a4f
+  # categories: ["image-processing"]
+  # tags: ["Image Processing", "Computer Vision"]
+
+- title: Transformations from Pan-STARRS1 and UBV Filters into ZTF Filters
+  publishedIn:
+    name: Research Notes of the AAS, Volume 4, Number 3
+    date: March 2020
+    url: https://iopscience.iop.org/article/10.3847/2515-5172/ab7f3c
+  # authors:
+  # - name: Dr. Madman
+  #   url: https://example.com
+  # - name: Dr. Lessmad
+  #   url: https://example.com
+  # - name: Dr. Moremad
+  #   url: https://example.com
+  # - name: Dr. Goodman
+  #   url: https://example.com
+  paper:
+    summary: The Zwicky Transient Facility (ZTF) is an optical time-domain survey that surveys the visible Northern sky every few nights in ZTF g-band and r-band, as well as an i-band filter used only for partnership observations and thus absent from this analysis. Transformations between the photometric systems of ZTF, Pan-STARRS1 (PS1), and Johnson–Morgan–Cousins (UBV) are essential for extending both the time-baseline and wavelength coverage of ZTF catalogs with information from other catalogs. We use cross-matching catalogs and simple stellar population synthesis models to derive photometric transformations from PS1 and UBV to ZTF.
+    url: https://iopscience.iop.org/article/10.3847/2515-5172/ab7f3c
+  # categories: ["image-processing"]
+  # tags: ["Image Processing", "Computer Vision"]

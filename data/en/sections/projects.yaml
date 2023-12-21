@@ -1,0 +1,49 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+# - name: All
+#   filter: "all"
+# - name: Professional
+#   filter: "professional"
+# - name: Academic
+#   filter: "academic"
+# - name: Hobby
+#   filter: "hobby"
+
+# your projects
+projects:
+- name: zort
+  logo: /images/sections/projects/zort_logo.png
+  role: Owner
+  timeline: "Aug 2019 - Apr 2021"
+  url: https://github.com/MichaelMedford/zort
+  #url: ""
+  summary: "ZTF Object Reader Tool is a set of functions to organize and access the ZTF Public Data Release lightcurves across multiple colors."
+  tags: ["academic", "open source"]
+
+- name: fringez
+  logo: /images/sections/projects/fringez_logo.png
+  role: Owner
+  timeline: "Nov 2020 - Apr 2021"
+  url: https://github.com/MichaelMedford/fringez # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "Pipeline software used to remove atmospheric fringes from optimal astronomical images. Official stage in the Zwicky Transient Facility i-band data reduction pipeline running on 50,000+ images per night."
+  tags: ["academic", "open source"]
+
+- name: PopSyCLE
+  logo: /images/sections/projects/popsycle_logo.png
+  role: Developer
+  timeline: "Aug 2017 - Apr 2021"
+  url: https://github.com/jluastro/PopSyCLE
+  #url: ""
+  summary: "A Milky Way microlensing simulation code that stellar evolution, dust models and observation effects to identify optimal strategies for microlensing detections."
+  tags: ["academic", "open source"]
