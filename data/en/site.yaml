@@ -1,5 +1,5 @@
 # Copyright Notice
-copyright: © 2023 Copyright.
+copyright: © 2024 Copyright.
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
 disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses.
@@ -7,7 +7,7 @@ You can modify or distribute the theme without requiring any permission from the
 However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: I am an astrophysicist that loves building massive data processing pipelines that solve intractable problems. I have applied these skills to a diverse set of challenges ranging from scaling R&D products on cloud infrastructure to constructing calibration pipelines for the world's largest telescopes. I am at my best when working alongside other passionate collaborators toward a common goal.
+description: "I am an astrophysicist that loves building massive data processing pipelines that solve intractable problems. I am at my best when working alongside other passionate collaborators toward a common goal."
 
 # specify the list of custom menus that you want to show in the top navbar.
 # # they will be separated by a divider from the main menus.
