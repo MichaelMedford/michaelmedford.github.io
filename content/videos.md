@@ -30,8 +30,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     var videoTitle = video.snippet.title;
                     output += `
                         <div class="video">
-                            <h3>${videoTitle}</h3>
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/${videoId}" frameborder="0" allowfullscreen></iframe>
+                            <h4>${videoTitle}</h4>
+                            <iframe width="350" height="197" src="https://www.youtube.com/embed/${videoId}" frameborder="0" allowfullscreen></iframe>
                         </div>
                     `;
                 }
