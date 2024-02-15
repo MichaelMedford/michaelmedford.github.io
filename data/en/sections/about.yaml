@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Interim System Architect, Staff Software Engineer
+designation: Staff Software Engineer
 # your company information
 company:
   name: Aumni, a JPMorgan Chase Company
@@ -74,7 +74,7 @@ badges:
   badge: "files/2048px-Seal_of_University_of_California,_Berkeley.png"
 
 - type: certification
-  name: "Aumni: System Architect"
+  name: "Aumni: Staff Software Engineer"
   url: "https://www.jpmorgan.com/about-us/corporate-news/2023/jpmorgan-acquire-alumni-leading-provider-investment-analytics-software"
   # badge: "files/aumni_logo_jpm_lower.png"
   badge: "files/aumni_logo_white.png"
@@ -90,7 +90,7 @@ badges:
   color: "#FDB515"
 
 - type: soft-skill-indicator
-  name: "Interim System Architect"
+  name: "Staff Software Engineer"
   percentage: 95
   color: "#3886eb"
 

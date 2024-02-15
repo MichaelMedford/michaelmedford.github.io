@@ -17,7 +17,7 @@ experiences:
     # company overview
     overview: Aumni gives you instant access to the most reliable financial and legal insights across your portfolio, sourced directly from your executed legal agreements.
   positions:
-  - designation: Interim System Architect, Staff Software Engineer
+  - designation: Staff Software Engineer
     start: July 2023
     responsibilities:
     - Redesigned our backend architecture with management, product and engineering to enable flow in stream-aligned teams
