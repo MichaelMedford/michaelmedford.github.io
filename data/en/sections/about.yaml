@@ -11,8 +11,8 @@ section:
 designation: Staff Software Engineer
 # your company information
 company:
-  name: Aumni, a JPMorgan Chase Company
-  url: "https://www.aumni.fund/"
+  name: Insight M
+  url: "https://www.insightm.com/"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
@@ -74,10 +74,10 @@ badges:
   badge: "files/2048px-Seal_of_University_of_California,_Berkeley.png"
 
 - type: certification
-  name: "Aumni: Staff Software Engineer"
-  url: "https://www.jpmorgan.com/about-us/corporate-news/2023/jpmorgan-acquire-alumni-leading-provider-investment-analytics-software"
+  name: "Insight M: Staff Software Engineer"
+  url: "https://www.insightm.com/"
   # badge: "files/aumni_logo_jpm_lower.png"
-  badge: "files/aumni_logo_white.png"
+  badge: "files/InsightM_logo_black.png"
 
 - type: soft-skill-indicator
   name: "BS: Physics & Theatre"
