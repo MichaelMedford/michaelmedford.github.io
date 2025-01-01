@@ -11,6 +11,20 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Insight M
+    url: "https://www.insightm.com/"
+    location: Sunnyvale, CA
+    # company overview
+    overview: Insight M monitors oil and gas pipelines to detect methane leaks and prevent them from getting into the atmosphere, reducing the environmental impact of these operators. I leverage my expertise in data architecture to design scalable infrastructure and implement transformative projects that are helping the company rapidly scale their efforts.
+  positions:
+  - designation: Staff Software Engineer
+    start: July 2024
+    responsibilities:
+    - Developed a two-year organizational roadmap to improve data architecture and security, including a staging and development data strategy, a data transformation pipeline for enhanced business intelligence dashboards, and a data retention overhaul, projected to save the company six figures annually
+    - Optimized database processes by refactoring high-cost computational components, reducing runtime expenses, and enhancing system resiliency with comprehensive test coverage
+    - Enhanced data infrastructure by implementing a database event alert pipeline, launching an internal application for query plan analysis to improve query efficiency, and introducing the company's first postmortem template to foster learning from software retrospectives
+
+- company:
     name: Aumni, a JPMorgan Chase Company
     url: "https://www.aumni.fund/"
     location: Salt Lake City, UT
@@ -19,6 +33,7 @@ experiences:
   positions:
   - designation: Staff Software Engineer
     start: July 2023
+    end: June 2024
     responsibilities:
     - Redesigned our backend architecture with management, product and engineering to enable flow in stream-aligned teams
     - Developed a migration plan to maintain 100% uptime while refactoring our Ruby on Rails monolith into a set of independent services within the JPMorgan ecosystem
