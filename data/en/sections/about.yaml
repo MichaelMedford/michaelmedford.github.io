@@ -11,15 +11,15 @@ section:
 designation: Staff Software Engineer
 # your company information
 company:
-  name: Insight M
-  url: "https://www.insightm.com/"
+  name: KoBold Metals
+  url: "https://koboldmetals.com/"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I am an astrophysicist that loves investigating, organizing and scaling big data to solve intractable problems. I have applied these skills to a diverse set of challenges ranging from scaling R&D products on cloud infrastructure to constructing calibration pipelines for the world's largest telescopes. I am at my best when working alongside other passionate collaborators toward a common goal."
+summary: "I am a staff-level software engineer and systems architect specializing in scalable data infrastructure, workflow orchestration, and operational automation for complex technical domains. My background in astrophysics and scientific computing has enabled me to design reliable systems that transform ambiguous, data-intensive workflows into scalable software platforms."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -74,10 +74,11 @@ badges:
   badge: "files/2048px-Seal_of_University_of_California,_Berkeley.png"
 
 - type: certification
-  name: "Insight M: Staff Software Engineer"
-  url: "https://www.insightm.com/"
+  name: "KoBold Metals: Staff Software Engineer"
+  url: "https://koboldmetals.com/"
   # badge: "files/aumni_logo_jpm_lower.png"
-  badge: "files/InsightM_logo_black.png"
+  # badge: "files/InsightM_logo_black.png"
+  badge: "files/KoBoldMetals_logo.png"
 
 - type: soft-skill-indicator
   name: "BS: Physics & Theatre"

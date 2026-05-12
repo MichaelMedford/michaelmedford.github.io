@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Skills
+  name: Technical Expertise
   id: skills
   enable: true
   weight: 2
@@ -11,6 +11,14 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: Workflow Orchestration
+  logo: /images/sections/skills/airflow.png *
+  summary: "Designed production workflow systems coordinating distributed processing, operational reporting, machine learning pipelines, and human-in-the-loop automation across scientific and enterprise environments."
+
+- name: LLM Workflows
+  logo: /images/sections/skills/ai.png
+  summary: "Led adoption of AI-assisted engineering workflows, agent-based development patterns, and organizational process redesign around AI-native software development."
+
 - name: Python
   logo: /images/sections/skills/python.png
   summary: "Expert in constructing massive data processing pipelines in both cloud and high-performance computing environments."

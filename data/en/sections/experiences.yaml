@@ -11,6 +11,20 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: KoBold Metals
+    url: "https://koboldmetals.com/"
+    location: Berkeley, CA
+    # company overview
+    overview: KoBold Metals combines geology, machine learning, and large-scale software systems to reinvent how critical minerals are discovered for the global energy transition.
+  positions:
+  - designation: Staff Software Engineer
+    start: April 2025
+    responsibilities:
+    - Led organizational adoption of AI-assisted software development practices, including introducing local AI tooling workflows, redesigning engineering processes around increased development throughput, and mentoring engineers on AI-native development patterns using Cursor and agent-based workflows.
+    - Designed and operationalized the Korecam360 data infrastructure powering ingestion, synchronization, and retrieval of large-scale core imaging datasets across KoBold’s exploration platform, enabling machine learning workflows, historical backfills, and downstream visualization systems.
+    - Built the Drillshift Daily Updates application after observing operational bottlenecks during fieldwork in Zambia, reducing drill superintendent reporting workflows from multiple hours each morning to approximately 15 minutes through automated workflow coordination and real-time operational reporting.
+
+- company:
     name: Insight M
     url: "https://www.insightm.com/"
     location: Sunnyvale, CA
@@ -19,6 +33,7 @@ experiences:
   positions:
   - designation: Staff Software Engineer
     start: July 2024
+    end: March 2025
     responsibilities:
     - Developed a two-year organizational roadmap to improve data architecture and security, including a staging and development data strategy, a data transformation pipeline for enhanced business intelligence dashboards, and a data retention overhaul, projected to save the company six figures annually
     - Optimized database processes by refactoring high-cost computational components, reducing runtime expenses, and enhancing system resiliency with comprehensive test coverage
