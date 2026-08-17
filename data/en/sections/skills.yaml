@@ -13,11 +13,15 @@ section:
 skills:
 - name: Workflow Orchestration
   logo: /images/sections/skills/airflow.png
-  summary: "Designed production workflow systems coordinating distributed processing, operational reporting, machine learning pipelines, and human-in-the-loop automation across scientific and enterprise environments."
+  summary: "Designed production workflow systems on Temporal and Airflow coordinating distributed processing, operational reporting, machine learning pipelines, and human-in-the-loop automation across scientific and enterprise environments."
 
-- name: LLM Workflows
+- name: Agentic Engineering
   logo: /images/sections/skills/ai.png
-  summary: "Led adoption of AI-assisted engineering workflows, agent-based development patterns, and organizational process redesign around AI-native software development."
+  summary: "Architect LLM-driven agentic systems with auditable verification pipelines, and build AI-automated engineering workflows enabling massively parallel agentic development of production code."
+
+- name: Cloud Architecture
+  logo: /images/sections/skills/cloud.png
+  summary: "Designed and scaled cloud platforms on AWS and GCP with Kubernetes and Terraform, from petabyte-scale geospatial processing to event-driven data infrastructure."
 
 - name: Python
   logo: /images/sections/skills/python.png
