@@ -69,7 +69,7 @@ experiences:
     - Developed a migration plan to maintain 100% uptime while refactoring our Ruby on Rails monolith into a set of independent services within the JPMorgan ecosystem
     - Constructed contract testing framework to ensure independent deployability in collaboration with our Testing Enablement Team
   - designation: Senior Software Engineer and Technical Lead
-    start: October 2022
+    start: November 2022
     end: June 2023
     responsibilities:
     - Designed, documented and deployed to production an independent microservice for indexing millions of documents into OpenSearch in only 6 weeks
