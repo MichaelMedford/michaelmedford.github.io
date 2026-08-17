@@ -11,6 +11,20 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: DillyAI
+    # No public page yet while the company is in stealth
+    location: Remote
+    # company overview
+    overview: DillyAI is bringing AI to the back office of corporate accounting. We're building the system that understands how accountants actually work, so firms can hand off the grunt work of an engagement to software that reasons about their numbers, not just reads them.
+  positions:
+  - designation: Founding Engineer & VP of Engineering
+    start: June 2026
+    responsibilities:
+    - Architected and built core engagement engine on an event-sourced Temporal framework that orchestrates LLM-driven workflows using auditable verification processing pipelines
+    - Constructed AI-automated engineering workflows that enable rapid massive parallelization of agentic development of production code including document concurrency enforcement, human driven architecture design, and automated cloud-based execution
+    - Established company-wide information system integrating information sharing between product development, sales, marketing and engineering to enable common context sharing among AI agents
+
+- company:
     name: KoBold Metals
     url: "https://koboldmetals.com/"
     location: Berkeley, CA
@@ -19,6 +33,7 @@ experiences:
   positions:
   - designation: Staff Software Engineer
     start: April 2025
+    end: May 2026
     responsibilities:
     - Led organizational adoption of AI-assisted software development practices, including introducing local AI tooling workflows, redesigning engineering processes around increased development throughput, and mentoring engineers on AI-native development patterns using Cursor and agent-based workflows.
     - Designed and operationalized the Korecam360 data infrastructure powering ingestion, synchronization, and retrieval of large-scale core imaging datasets across KoBold’s exploration platform, enabling machine learning workflows, historical backfills, and downstream visualization systems.
@@ -54,7 +69,7 @@ experiences:
     - Developed a migration plan to maintain 100% uptime while refactoring our Ruby on Rails monolith into a set of independent services within the JPMorgan ecosystem
     - Constructed contract testing framework to ensure independent deployability in collaboration with our Testing Enablement Team
   - designation: Senior Software Engineer and Technical Lead
-    start: October 2022
+    start: November 2022
     end: June 2023
     responsibilities:
     - Designed, documented and deployed to production an independent microservice for indexing millions of documents into OpenSearch in only 6 weeks
