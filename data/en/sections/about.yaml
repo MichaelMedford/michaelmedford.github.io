@@ -8,11 +8,12 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Staff Software Engineer
+designation: Founding Engineer & VP of Engineering
 # your company information
 company:
-  name: KoBold Metals
-  url: "https://koboldmetals.com/"
+  name: DillyAI
+  # No public page yet while the company is in stealth
+  # url: ""
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
@@ -74,11 +75,10 @@ badges:
   badge: "files/2048px-Seal_of_University_of_California,_Berkeley.png"
 
 - type: certification
-  name: "KoBold Metals: Staff Software Engineer"
-  url: "https://koboldmetals.com/"
-  # badge: "files/aumni_logo_jpm_lower.png"
-  # badge: "files/InsightM_logo_black.png"
-  badge: "files/KoBoldMetals_logo.png"
+  name: "DillyAI: Founding Engineer & VP of Engineering"
+  # No public page yet while the company is in stealth
+  # badge: "files/KoBoldMetals_logo.png"
+  badge: "files/DillyAI_logo.png"
 
 - type: soft-skill-indicator
   name: "BS: Physics & Theatre"
@@ -91,9 +91,9 @@ badges:
   color: "#FDB515"
 
 - type: soft-skill-indicator
-  name: "Staff Software Engineer"
+  name: "VP of Engineering"
   percentage: 95
-  color: "#3886eb"
+  color: "#469b8d"
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
