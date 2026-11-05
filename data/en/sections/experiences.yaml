@@ -20,9 +20,8 @@ experiences:
   - designation: Founding Engineer & VP of Engineering
     start: June 2026
     responsibilities:
-    - Architected and built core engagement engine on an event-sourced Temporal framework that orchestrates LLM-driven workflows using auditable verification processing pipelines
-    - Constructed AI-automated engineering workflows that enable rapid massive parallelization of agentic development of production code including document concurrency enforcement, human driven architecture design, and automated cloud-based execution
-    - Established company-wide information system integrating information sharing between product development, sales, marketing and engineering to enable common context sharing among AI agents
+    - Built an event-sourced orchestration engine with Temporal for production LLM workflows, incorporating auditable verification pipelines
+    - Built AI-assisted software development workflows with parallel execution, document concurrency controls, and automated cloud execution under human-directed architecture
 
 - company:
     name: KoBold Metals
@@ -31,26 +30,26 @@ experiences:
     # company overview
     overview: KoBold Metals combines geology, machine learning, and large-scale software systems to reinvent how critical minerals are discovered for the global energy transition.
   positions:
-  - designation: Staff Software Engineer
+  - designation: Staff Software Engineer - Data Systems
     start: April 2025
     end: May 2026
     responsibilities:
-    - Led organizational adoption of AI-assisted software development practices, including introducing local AI tooling workflows, redesigning engineering processes around increased development throughput, and mentoring engineers on AI-native development patterns using Cursor and agent-based workflows.
-    - Designed and operationalized the Korecam360 data infrastructure powering ingestion, synchronization, and retrieval of large-scale core imaging datasets across KoBold’s exploration platform, enabling machine learning workflows, historical backfills, and downstream visualization systems.
-    - Built the Drillshift Daily Updates application after observing operational bottlenecks during fieldwork in Zambia, reducing drill superintendent reporting workflows from multiple hours each morning to approximately 15 minutes through automated workflow coordination and real-time operational reporting.
+    - Built the Korecam360 data infrastructure for large-scale image ingestion, synchronization, and retrieval, supporting machine learning, historical backfills, and visualization.
+    - Built an operational reporting application that reduced drill superintendent reporting from multiple hours each morning to approximately 15 minutes.
+    - Led adoption of AI-assisted development practices, redesigned engineering workflows, and mentored engineers in AI-native development using Cursor and agent-based tools.
 
 - company:
     name: Insight M
     url: "https://www.insightm.com/"
     location: Sunnyvale, CA
     # company overview
-    overview: Insight M monitors oil and gas pipelines to detect methane leaks and prevent them from getting into the atmosphere, reducing the environmental impact of these operators. I leverage my expertise in data architecture to design scalable infrastructure and implement transformative projects that are helping the company rapidly scale their efforts.
+    overview: Insight M monitors oil and gas pipelines to detect methane leaks and prevent them from getting into the atmosphere, reducing the environmental impact of these operators.
   positions:
-  - designation: Staff Software Engineer
+  - designation: Staff Software Engineer - Subject Matter Expert in Datastores
     start: July 2024
     end: March 2025
     responsibilities:
-    - Developed a two-year organizational roadmap to improve data architecture and security, including a staging and development data strategy, a data transformation pipeline for enhanced business intelligence dashboards, and a data retention overhaul, projected to save the company six figures annually
+    - Developed a data architecture and security roadmap covering development environments, analytics pipelines, and data retention, with projected annual savings of six figures
     - Optimized database processes by refactoring high-cost computational components, reducing runtime expenses, and enhancing system resiliency with comprehensive test coverage
     - Enhanced data infrastructure by implementing a database event alert pipeline, launching an internal application for query plan analysis to improve query efficiency, and introducing the company's first postmortem template to foster learning from software retrospectives
 
@@ -65,16 +64,16 @@ experiences:
     start: July 2023
     end: June 2024
     responsibilities:
-    - Redesigned our backend architecture with management, product and engineering to enable flow in stream-aligned teams
-    - Developed a migration plan to maintain 100% uptime while refactoring our Ruby on Rails monolith into a set of independent services within the JPMorgan ecosystem
+    - Redesigned backend architecture with management, product, and engineering to enable flow in stream-aligned teams
+    - Developed a migration plan to maintain 100% uptime while refactoring a Ruby on Rails monolith into independent services within the JPMorgan ecosystem
     - Constructed contract testing framework to ensure independent deployability in collaboration with our Testing Enablement Team
   - designation: Senior Software Engineer and Technical Lead
     start: November 2022
     end: June 2023
     responsibilities:
-    - Designed, documented and deployed to production an independent microservice for indexing millions of documents into OpenSearch in only 6 weeks
+    - Designed and deployed an OpenSearch indexing service for millions of documents in six weeks
     - Invented an SQL unit test framework supported by a file parsing library on top of our core business logic
-    - Overhauled the infrastructure and tooling for developer data synchronization to reduce sync time from 15 minutes to 20 seconds
+    - Reduced developer data synchronization time from 15 minutes to 20 seconds through infrastructure and tooling improvements
 
 - company:
     name: Planet Labs
@@ -86,15 +85,15 @@ experiences:
     start: March 2022
     end: October 2022
     responsibilities:
-    - Architected 10x increase in our daily processing to 595 TB while cutting per unit costs 80% in four months
-    - 98% reduction in database query latency & CPU utilization via SQL schema & query optimization
-    - Cut GCS & AWS data delivery processing overhead by 30x using batched GCP pubsub messages
-    - Moved team into a bi-weekly sprint structure with ticket triage, sprint retrospectives and sprint planning
+    - Increased daily Python processing capacity 10x while reducing per-unit costs 80% in four months
+    - Reduced database query latency and CPU utilization 98% through SQL schema and query optimization
+    - Reduced cloud data-delivery processing overhead 30x using batched GCP Pub/Sub messages
   - designation: Geospatial Software Engineer
     start: June 2021
     end: October 2022
     responsibilities:
-    - Implemented automated data backups & disaster recovery via terraform to comply with ISO certification • Set up on-call notifications by integrating Sentry, PagerDuty and Slack into our Python & Go stack
+    - Implemented automated data backups & disaster recovery via terraform to comply with ISO certification
+    - Set up on-call notifications by integrating Sentry, PagerDuty and Slack into our Python & Go stack
     - Created a comprehensive cost estimate method to measure profit margin goals for our product teams
     - Coordinated several refactors across our Compute, Pipeline and Infrastructure teams to facilitate growth
   - designation: Part-time Geospatial Software Engineer

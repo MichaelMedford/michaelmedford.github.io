@@ -8,63 +8,20 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
-# Your Skills.
-# Give a summary of you each skill in the summary section.
+# Consulting expertise, aligned with the resume.
 skills:
-- name: Workflow Orchestration
-  logo: /images/sections/skills/airflow.png
-  summary: "Designed production workflow systems on Temporal and Airflow coordinating distributed processing, operational reporting, machine learning pipelines, and human-in-the-loop automation across scientific and enterprise environments."
-
-- name: Agentic Engineering
+- name: AI & Workflow
   logo: /images/sections/skills/ai.png
-  summary: "Architect LLM-driven agentic systems with auditable verification pipelines, and build AI-automated engineering workflows enabling massively parallel agentic development of production code."
+  summary: "Agent Orchestration, Harness Engineering, Evaluation Design, Temporal, Airflow, Prefect."
 
-- name: Cloud Architecture
+- name: Architecture
   logo: /images/sections/skills/cloud.png
-  summary: "Designed and scaled cloud platforms on AWS and GCP with Kubernetes and Terraform, from petabyte-scale geospatial processing to event-driven data infrastructure."
+  summary: "Data Pipelines, Data & Event-Driven Architecture, Distributed Systems, System Reliability."
 
-- name: Python
+- name: Data & Backend
   logo: /images/sections/skills/python.png
-  summary: "Expert in constructing massive data processing pipelines in both cloud and high-performance computing environments."
-  url: "https://www.python.org/"
+  summary: "Python, Go, SQL, Ruby on Rails, PostgreSQL, OpenSearch, Data Modeling."
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Experience developing on production scheduling software while handling customer information with zero downtime."
-  url: "https://golang.org/"
-
-- name: Ruby on Rails
-  logo: /images/sections/skills/rails.png
-  summary: "Implemented new features into an existing monolith including integration with independent microservices via a transactional outbox pattern."
-  url: "https://rubyonrails.org/"
-
-- name: C
-  logo: /images/sections/skills/c.png
-  summary: "Built planet-hunting software on national laboratory high performance computing clusters optimized for speed and memory efficiency."
-  url: https://www.cprogramming.com/
-
-- name: PostgreSQL
-  logo: /images/sections/skills/sql.png
-  summary: "Expert in designing and implementing novel data modeling schemas using efficient scalable SQL and database access techniques."
-  url: https://www.postgresql.org/
-
-- name: Docker
+- name: Cloud & Infrastructure
   logo: /images/sections/skills/docker.png
-  summary: "Extensive experience building software into docker containers and constructing docker compose files for production deployments."
-  url: "https://www.docker.com/"
-
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Expert in git-based development, including git flow and trunk based development, using both Github and Gitlab."
-  url: "https://git-scm.com/"
-
-- name: Agile Project Management
-  logo: /images/sections/skills/agile.png
-  summary: "Experience planning and running agile sprint ceremonies as technical lead of several teams."
-  url: https://www.agilealliance.org/agile101/
-
-- name: Technical Writing
-  logo: /images/sections/skills/pencil.jpeg
-  summary: "Author on over thirty scientific papers including four first author papers in Astronomy & Astrophysics."
-  url: https://scholar.google.com/citations?user=jSkrHtgAAAAJ&hl=en&oi=ao
-
+  summary: "AWS, GCP, Docker, Kubernetes, Terraform, Kafka."
