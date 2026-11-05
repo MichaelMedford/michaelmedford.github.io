@@ -1,4 +1,18 @@
 .skills-section {
+  // Four expertise areas form two balanced rows on tablet and desktop.
+  #primary-skills > div {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding-bottom: 1rem;
+  }
+
+  @media (min-width: 576px) {
+    #primary-skills > div {
+      flex-basis: 50%;
+      max-width: 50%;
+    }
+  }
+
   .card {
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;

@@ -12,16 +12,16 @@ section:
 skills:
 - name: AI & Workflow
   logo: /images/sections/skills/ai.png
-  summary: "Agent Orchestration, Harness Engineering, Evaluation Design, Temporal, Airflow, Prefect."
+  summary: "I build production AI workflows with auditable verification, evaluation design, and reliable agent orchestration. My work includes engineering harnesses for parallel AI-assisted development, with document concurrency controls and human-directed architecture.<br>**Tools:** Temporal, Airflow, Prefect."
 
 - name: Architecture
   logo: /images/sections/skills/cloud.png
-  summary: "Data Pipelines, Data & Event-Driven Architecture, Distributed Systems, System Reliability."
+  summary: "I design data pipelines and event-driven systems that teams can operate, extend, and trust. From large-scale image ingestion at KoBold to planning a zero-downtime monolith migration at Aumni, I connect architecture decisions to delivery, data access, and system reliability.<br>**Focus:** Data architecture, distributed systems, event-driven architecture."
 
 - name: Data & Backend
   logo: /images/sections/skills/python.png
-  summary: "Python, Go, SQL, Ruby on Rails, PostgreSQL, OpenSearch, Data Modeling."
+  summary: "I build backend services and data models for demanding production workloads. At Aumni, I shipped an OpenSearch indexing service for millions of documents in six weeks and reduced developer data synchronization from 15 minutes to 20 seconds.<br>**Tools:** Python, Go, SQL, Ruby on Rails, PostgreSQL, OpenSearch."
 
 - name: Cloud & Infrastructure
   logo: /images/sections/skills/docker.png
-  summary: "AWS, GCP, Docker, Kubernetes, Terraform, Kafka."
+  summary: "I improve the efficiency and reliability of cloud processing systems. At Planet, I increased daily Python processing capacity 10x while reducing per-unit costs 80%, and cut data-delivery overhead 30x. My experience also includes automated backups and disaster recovery.<br>**Tools:** AWS, GCP, Docker, Kubernetes, Terraform, Kafka."
